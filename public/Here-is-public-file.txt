@@ -1,0 +1,12 @@
+This is the 'public' directory.
+
+Any files you place in here (like images, fonts, or your sound files) will be served directly by your application.
+
+For the sounds to work with the code I've provided, please:
+1. Create a folder named 'sounds' inside this 'public' directory.
+2. Move your .mp3 files into `public/sounds/`.
+
+For example:
+- public/sounds/Anger.mp3
+- public/sounds/Happy.mp3
+- etc.
